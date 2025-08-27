@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "01.top interview 150 note"
             }
-          },
-          {
-            "id": "9c84a301bec5c369",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c84a301bec5c369",
+  "active": "71e1f1b839941abb",
   "lastOpenFiles": [
     "01.top interview 150 note.md",
     "test.py",
