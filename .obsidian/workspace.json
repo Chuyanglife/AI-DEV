@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "01.top interview 150 note"
             }
+          },
+          {
+            "id": "9c84a301bec5c369",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,14 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71e1f1b839941abb",
+  "active": "9c84a301bec5c369",
   "lastOpenFiles": [
+    "01.top interview 150 note.md",
     "test.py",
     "demo.py",
     "README.md",
     "100.README.md",
     "top interview 150 note.md",
-    "01.top interview 150 note.md",
     "02.test.py",
     "01.demo.py"
   ]
