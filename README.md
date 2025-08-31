@@ -1,3 +1,4 @@
 Leetcode
 
-cursor runfile 
+
+1-cursor runfile ctrl+5
