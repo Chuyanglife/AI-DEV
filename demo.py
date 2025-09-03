@@ -18,5 +18,5 @@ class scmp:
         print("end")
 
 if __name__ =="__main__":
-    cmp=scmp()
+    comparer=scmp()
     
