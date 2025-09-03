@@ -7,5 +7,6 @@ while True:
         break
     #print("string: "+s1+s2)
     if len(s1>s2):
-        print("string: "+)
+        print("string: "+s1+s2)
+    if len(s2>)
 print("end")
