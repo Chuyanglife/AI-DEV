@@ -15,6 +15,8 @@ class scmp:
                 print("string: "+s1+s2)
             elif len(s2)>=len(s1):
                 print("string: "+s2+s1)
+            else:
+                print()
         print("end")
 
 if __name__ == "__main__":
