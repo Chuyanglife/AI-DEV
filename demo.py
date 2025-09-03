@@ -16,3 +16,5 @@ class scmp:
             if len(s2)>=len(s1):
                 print("string: "+s2+s1)
         print("end")
+
+if __name__
