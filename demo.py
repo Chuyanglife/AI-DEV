@@ -1,5 +1,6 @@
 class scmp:
-    def __
+    def __init__(self):
+        pass
 while True:
     s1=input("s1: ")
     if s1=="0":
