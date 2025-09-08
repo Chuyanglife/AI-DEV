@@ -1,5 +1,5 @@
 arr=[]
-for i in 5:
+for i in range(0,5):
     input()
 
 for i
