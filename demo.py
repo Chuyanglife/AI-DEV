@@ -1,5 +1,5 @@
 arr=[]
-for i in arr:
+for i in 5:
     print(i,end=" ")
 
 
