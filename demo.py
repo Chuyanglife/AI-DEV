@@ -4,6 +4,6 @@ for i in range(0,5):
     arr.append(num)
 
 for i in range(0,5):
-    print(arr[i])
+    print(arr[i]£¬end=" ")
 
 
