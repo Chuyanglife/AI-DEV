@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35624d372d840afe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/python编程从入门到实践第2版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "python编程从入门到实践第2版"
-            }
-          },
-          {
             "id": "14472f579d5f445d",
             "type": "leaf",
             "state": {
@@ -182,13 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35624d372d840afe",
+  "active": "14472f579d5f445d",
   "lastOpenFiles": [
+    "README.md",
     "python_crash_course/python crash course note.md",
     "books/python编程从入门到实践第2版.pdf",
     "python_crash_course/chp12",
     "00.awesome tips.md",
-    "README.md",
     "03.top 100 liked note.md",
     "02.top interview 150 note.md",
     "01.leetcode 75 note.md",
