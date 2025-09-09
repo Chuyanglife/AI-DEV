@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python_crash_course/python crash course note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python crash course note"
+              "title": "README"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "14472f579d5f445d",
   "lastOpenFiles": [
-    "README.md",
     "python_crash_course/python crash course note.md",
+    "README.md",
     "books/python编程从入门到实践第2版.pdf",
     "python_crash_course/chp12",
     "00.awesome tips.md",
