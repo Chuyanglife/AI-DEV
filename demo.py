@@ -1,4 +1,1 @@
-x=1
-y=2
-z="world"
-print(f"hello {z}")
+arr
