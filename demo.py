@@ -1,6 +1,6 @@
 x=1
 y="hello"
 
-print(f"")
+print(f"{x}puki{y}")
 
 
