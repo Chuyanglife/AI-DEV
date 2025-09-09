@@ -11,12 +11,14 @@
             "id": "237ef90f543f4da2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf"
+                "file": "01.leetcode 75 note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Python极客项目编程_(美)Mahesh Venkitachalam"
+              "icon": "lucide-file",
+              "title": "01.leetcode 75 note"
             }
           }
         ]
@@ -170,8 +172,9 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
-    "documentary/python crash course/pg1.jpg",
     "00.awesome tips.md",
+    "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
+    "documentary/python crash course/pg1.jpg",
     "python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
     "python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
     "python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
@@ -181,7 +184,6 @@
     "python_crash_course/chp9/p9_12/__pycache__",
     "python_crash_course/chp9/p9_12/user.py",
     "python_crash_course/chp9/p9_12/p9_12.py",
-    "python_crash_course/chp9/p9_11/__pycache__",
     "documentary/python crash course/pg9.jpg",
     "documentary/python crash course/pg8.jpg",
     "documentary/python crash course/pg7.jpg",
@@ -191,7 +193,6 @@
     "documentary/python crash course/pg3.jpg",
     "documentary/python crash course/pg26.jpg",
     "documentary/python crash course/pg25.jpg",
-    "documentary/python crash course/pg24.jpg",
     "01.leetcode 75 note.md",
     "README.md",
     "02.top interview 150 note.md",
