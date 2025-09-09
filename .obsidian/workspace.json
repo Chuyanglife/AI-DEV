@@ -11,12 +11,12 @@
             "id": "237ef90f543f4da2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "documentary/python crash course/pg1.jpg"
+                "file": "books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf"
               },
-              "icon": "lucide-image",
-              "title": "pg1"
+              "icon": "lucide-file-text",
+              "title": "Python极客项目编程_(美)Mahesh Venkitachalam"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "237ef90f543f4da2",
   "lastOpenFiles": [
+    "documentary/python crash course/pg1.jpg",
     "00.awesome tips.md",
     "python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
     "python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
