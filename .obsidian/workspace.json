@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/01.python crash course note.md",
+                "file": "practice/01.python crash course note.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,7 +174,7 @@
   "lastOpenFiles": [
     "practice",
     "django/01.django note.md",
-    "courses/01.python crash course note.md",
+    "practice/01.python crash course note.md",
     "00.awesome tips.md",
     "courses/books/python编程从入门到实践第2版.pdf",
     "courses/books/Python编程：从入门到实践.pdf",
@@ -192,10 +192,10 @@
     "courses/cheatsheet/pg25.jpg",
     "courses/cheatsheet/pg2.jpg",
     "courses/cheatsheet",
-    "courses/python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
-    "courses/python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
-    "courses/python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
-    "courses/python_crash_course/chp9/__pycache__/p9_8.cpython-310.pyc",
+    "practice/python_crash_course/chp9/p9_12/__pycache__/user.cpython-310.pyc",
+    "practice/python_crash_course/chp9/p9_12/__pycache__/admin_privileges.cpython-310.pyc",
+    "practice/python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
+    "practice/python_crash_course/chp9/__pycache__/p9_8.cpython-310.pyc",
     "courses/python_crash_course/python crash course note.md",
     "books/python_crash_course/python crash course note.md",
     "01.leetcode 75 note.md",
