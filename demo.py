@@ -1,2 +1,2 @@
-a,b=list(map(int,input().split()))
-print(f"{a+b}")
+n=int(input())
+print(f"{n%2}")
