@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-s = input()
+s = input().split()
 
-print(s)
+print(",".join(s))
 
