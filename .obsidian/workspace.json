@@ -172,6 +172,8 @@
   },
   "active": "28855627a2ae3135",
   "lastOpenFiles": [
+    "django/main.py",
+    "django",
     "books/python编程从入门到实践第2版.pdf",
     "README.md",
     "03.top 100 liked note.md",
@@ -188,7 +190,6 @@
     "python_crash_course/chp9/p9_11/__pycache__/admin.cpython-310.pyc",
     "python_crash_course/chp9/__pycache__/p9_8.cpython-310.pyc",
     "python_crash_course/chp9/__pycache__/p9_6.cpython-310.pyc",
-    "python_crash_course/chp9/__pycache__/p9_14.cpython-310.pyc",
     "documentary/python crash course/pg9.jpg",
     "documentary/python crash course/pg8.jpg",
     "documentary/python crash course/pg7.jpg",
