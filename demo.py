@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 s = map(chr,input().split())
 #print(' '.join(f"{ord(c):02X}" for c in s))
