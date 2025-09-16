@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. fcc daily challenge note.md",
+                "file": "00.awesome tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. fcc daily challenge note"
+              "title": "00.awesome tips"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "04. fcc daily challenge note.md",
     "firstproject/firstapp/migrations/__init__.py",
     "firstproject/firstapp/migrations",
     "firstproject/firstapp/__init__.py",
@@ -182,9 +183,7 @@
     "firstproject/firstapp/admin.py",
     "firstproject/firstapp",
     "firstproject/firstproject/__init__.py",
-    "firstproject/firstproject/wsgi.py",
     "03.top 100 liked note.md",
-    "04. fcc daily challenge note.md",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
     "02.top interview 150 note.md",
