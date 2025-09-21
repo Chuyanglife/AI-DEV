@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "courses/cheatsheet/pg1.jpg"
+                "file": "images/1758444737410.png"
               },
               "icon": "lucide-image",
-              "title": "pg1"
+              "title": "1758444737410"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "courses/cheatsheet/pg1.jpg",
     "04.fcc daily challenge note.md",
     "00.awesome tips.md",
     "images/1758444737410.png",
