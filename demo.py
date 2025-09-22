@@ -18,7 +18,7 @@ def digits_or_letters(s:str)->str:
 
 print(digits_or_letters("abc123"))
 print(digits_or_letters("a1b2c3d"))
-digits_or_letters("1a2b3c4"))
-digits_or_letters("abc123!@#DEF"))
-digits_or_letters("H3110 W0R1D"))
+print(digits_or_letters("1a2b3c4"))
+print(digits_or_letters("abc123!@#DEF"))
+print(digits_or_letters("H3110 W0R1D"))
 digits_or_letters("P455W0RD"))
