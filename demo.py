@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
 
 x=list()
-print()
+print(type(x))
+print(dir(x))
