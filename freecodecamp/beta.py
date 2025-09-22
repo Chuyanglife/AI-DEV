@@ -2,4 +2,4 @@
 
 text="hello world"
 
-print(text[-3:-1])
+print(text[-7:-1])
