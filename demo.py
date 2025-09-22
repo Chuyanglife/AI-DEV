@@ -16,4 +16,8 @@ def digits_or_letters(s:str)->str:
     else:
         return "tie"
 
-digits_or_letters()
+digits_or_letters("abc123")
+digits_or_letters("abc123")
+digits_or_letters("abc123")
+digits_or_letters("abc123")
+digits_or_letters("abc123")
