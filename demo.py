@@ -15,3 +15,4 @@ def digits_or_letters(s:str)->str:
         return "digits"
     else:
         return "tie"
+
