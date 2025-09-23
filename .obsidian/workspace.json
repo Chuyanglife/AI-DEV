@@ -49,7 +49,8 @@
               "title": "04.fcc daily challenge note"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d510f90cd14f45ca",
+  "active": "39761af6095004de",
   "lastOpenFiles": [
     "07.scientific computing with python.md",
     "00.awesome tips.md",
