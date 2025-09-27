@@ -35,8 +35,7 @@
               "title": "01.leetcode 75 note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39761af6095004de",
+  "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "01.leetcode 75 note.md",
     "04.fcc daily challenge note.md",
     "00.awesome tips.md",
     "07.scientific computing with python.md",
@@ -202,7 +202,6 @@
     "courses/04. fcc daily challenge note.md",
     "freecodecamp",
     "04. fcc daily challenge note.md",
-    "01.leetcode 75 note.md",
     "02.top interview 150 note.md",
     "firstproject/firstapp/migrations/__init__.py",
     "firstproject/firstapp/migrations",
