@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.fcc daily challenge note.md",
+                "file": "01.leetcode 75 note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.fcc daily challenge note"
+              "title": "01.leetcode 75 note"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "39761af6095004de",
   "lastOpenFiles": [
-    "00.awesome tips.md",
     "04.fcc daily challenge note.md",
+    "00.awesome tips.md",
     "07.scientific computing with python.md",
     "06.Leetcode problem.md",
     "05.Introduction to pandas.md",
