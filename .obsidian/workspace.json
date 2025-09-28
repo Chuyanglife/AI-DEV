@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.awesome tips.md",
+                "file": "07.scientific computing with python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.awesome tips"
+              "title": "07.scientific computing with python"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "d510f90cd14f45ca",
   "lastOpenFiles": [
+    "00.awesome tips.md",
     "01.leetcode 75 note.md",
     "02.top interview 150 note.md",
     "03.top 100 liked note.md",
@@ -179,7 +180,6 @@
     "04.fcc daily challenge note.md",
     "06.Leetcode problem.md",
     "07.scientific computing with python.md",
-    "00.awesome tips.md",
     "README.md",
     "images/1758444737410.png",
     "courses/cheatsheet/pg1.jpg",
