@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.leetcode problem.md",
+                "file": "07.scientific computing with python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.leetcode problem"
+              "title": "07.scientific computing with python"
             }
           }
         ]
@@ -172,15 +172,15 @@
   },
   "active": "14918d7ddb8c9afe",
   "lastOpenFiles": [
-    "07.scientific computing with python.md",
-    "README.md",
-    "00.awesome tips.md",
-    "03.top 100 liked note.md",
-    "02.top interview 150 note.md",
-    "01.leetcode 75 note.md",
-    "04.fcc daily challenge note.md",
     "05.Introduction to pandas.md",
+    "03.top 100 liked note.md",
+    "00.awesome tips.md",
+    "01.leetcode 75 note.md",
+    "07.scientific computing with python.md",
     "06.leetcode problem.md",
+    "README.md",
+    "02.top interview 150 note.md",
+    "04.fcc daily challenge note.md",
     "03.CyberSecurity",
     "02.AI",
     "burpsuite",
