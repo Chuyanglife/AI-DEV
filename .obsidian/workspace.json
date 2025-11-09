@@ -11,14 +11,12 @@
             "id": "14918d7ddb8c9afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06.scientific computing with python.md",
-                "mode": "source",
-                "source": false
+                "file": "images/1758444737410.png"
               },
-              "icon": "lucide-file",
-              "title": "06.scientific computing with python"
+              "icon": "lucide-image",
+              "title": "1758444737410"
             }
           }
         ]
@@ -172,8 +170,8 @@
   },
   "active": "14918d7ddb8c9afe",
   "lastOpenFiles": [
-    "00.awesome tips.md",
     "06.scientific computing with python.md",
+    "00.awesome tips.md",
     "05.fcc daily challenge note.md",
     "04.leetcode problem.md",
     "05.Introduction to pandas.md",
