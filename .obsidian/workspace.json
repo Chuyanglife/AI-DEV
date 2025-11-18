@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.data analysis.md",
+                "file": "06.scientific computing with python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.data analysis"
+              "title": "06.scientific computing with python"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.data analysis.md",
+                "file": "06.scientific computing with python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07.data analysis"
+              "title": "Backlinks for 06.scientific computing with python"
             }
           },
           {
@@ -187,8 +187,9 @@
   },
   "active": "9eae6263aeafa630",
   "lastOpenFiles": [
+    "07.data analysis with python.md",
     "06.scientific computing with python.md",
-    "07.data analysis.md",
+    "Untitled.md",
     "README.md",
     "05.fcc daily challenge note.md",
     "00.awesome tips.md",
