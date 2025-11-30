@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c767f4a1e83d81f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.leetcode problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.leetcode problem"
-            }
-          },
-          {
             "id": "810d1d70b59e8e5e",
             "type": "leaf",
             "pinned": true,
@@ -38,9 +22,24 @@
               "icon": "lucide-file",
               "title": "00.awesome tips"
             }
+          },
+          {
+            "id": "8c767f4a1e83d81f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.leetcode problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04.leetcode problem"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
