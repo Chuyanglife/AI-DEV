@@ -22,25 +22,8 @@
               "icon": "lucide-file",
               "title": "00.awesome tips"
             }
-          },
-          {
-            "id": "8c767f4a1e83d81f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.leetcode problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04.leetcode problem"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c767f4a1e83d81f",
+  "active": "810d1d70b59e8e5e",
   "lastOpenFiles": [
+    "04.leetcode problem.md",
     "00.awesome tips.md",
     "07.data analysis with python.md",
-    "04.leetcode problem.md",
     "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
     "README.md",
