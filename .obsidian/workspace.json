@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "04.leetcode problem"
             }
-          },
-          {
-            "id": "ca3c1f2e34257595",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/1758444737410.png"
-              },
-              "icon": "lucide-image",
-              "title": "1758444737410"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
