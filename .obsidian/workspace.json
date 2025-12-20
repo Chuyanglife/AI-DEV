@@ -41,14 +41,12 @@
             "id": "ca3c1f2e34257595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/1758444737410.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "1758444737410"
             }
           }
         ],
@@ -203,6 +201,7 @@
   },
   "active": "af07d77f2bbe61c9",
   "lastOpenFiles": [
+    "README.md",
     "02.top interview 150 note.md",
     "01.leetcode 75 note.md",
     "00.awesome tips.md",
@@ -211,7 +210,6 @@
     "07.data analysis with python.md",
     "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
-    "README.md",
     "01.Python/books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
     "Untitled.md",
     "images/1758444737410.png",
