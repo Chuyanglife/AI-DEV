@@ -37,8 +37,7 @@
               "title": "04.leetcode problem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af07d77f2bbe61c9",
+  "active": "810d1d70b59e8e5e",
   "lastOpenFiles": [
+    "04.leetcode problem.md",
+    "00.awesome tips.md",
+    "images/1758444737410.png",
     "README.md",
     "02.top interview 150 note.md",
     "01.leetcode 75 note.md",
-    "00.awesome tips.md",
-    "04.leetcode problem.md",
     "03.top 100 liked note.md",
     "07.data analysis with python.md",
     "05.fcc daily challenge note.md",
     "06.scientific computing with python.md",
     "01.Python/books/Python极客项目编程_(美)Mahesh Venkitachalam.pdf",
     "Untitled.md",
-    "images/1758444737410.png",
     "05.Introduction to pandas.md",
     "03.CyberSecurity",
     "02.AI",
