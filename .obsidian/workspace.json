@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "0a35e57e407d7097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.leetcode problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.leetcode problem"
-            }
-          },
-          {
             "id": "fed1584ed3677cab",
             "type": "leaf",
             "state": {
@@ -52,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +189,11 @@
   },
   "active": "fed1584ed3677cab",
   "lastOpenFiles": [
-    "04.leetcode problem.md",
+    "06.scientific computing with python.md",
     "08.responsive web design certification.md",
+    "04.leetcode problem.md",
     "00.awesome tips.md",
     "07.data analysis with python.md",
-    "06.scientific computing with python.md",
     "02.top interview 150 note.md",
     "01.leetcode 75 note.md",
     "README.md",
